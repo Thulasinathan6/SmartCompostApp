@@ -1,0 +1,2 @@
+# SmartCompostApp
+Just something simple
