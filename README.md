@@ -33,7 +33,7 @@ This is a simple yet impactful AI-powered web application that predicts whether 
 
 ## 📦 Installation & Usage
 
-1. **Clone the Repository**
+1. Clone the Repository
    ```bash
    git clone https://github.com/your-username/SmartCompostApp.git
    cd SmartCompostApp
@@ -77,7 +77,7 @@ The model uses simple text-based input and tokenization to classify new inputs. 
 
 ## 📸 Screenshots
 
-![Home Page](![Screenshot (30)](https://github.com/user-attachments/assets/eb55d0de-f919-42dd-804b-a4bd3cf44538)
+[Home Page]([Screenshot (30)](https://github.com/user-attachments/assets/eb55d0de-f919-42dd-804b-a4bd3cf44538)
 )
 *Main interface with compost prediction*
 
