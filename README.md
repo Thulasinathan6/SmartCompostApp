@@ -77,11 +77,9 @@ The model uses simple text-based input and tokenization to classify new inputs. 
 
 ## 📸 Screenshots
 
-![Home Page](screenshots/homepage.png)
+![Home Page](![Screenshot (30)](https://github.com/user-attachments/assets/eb55d0de-f919-42dd-804b-a4bd3cf44538)
+)
 *Main interface with compost prediction*
-
-![Prediction Example](screenshots/prediction.png)
-*Example of compostability prediction*
 
 ---
 
